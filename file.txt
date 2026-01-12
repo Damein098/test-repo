@@ -1,1 +1,2 @@
 this is my file on  learning git 
+adding some thing more 
